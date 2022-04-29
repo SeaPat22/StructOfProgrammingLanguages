@@ -8,3 +8,8 @@
 > command to compile the C++ file._
 
 
+### Differences in the Paradigms Used by Python and C++:
+> While Python and C++ both share some of the same paradigms, namely both Procedural and Object-Oriented
+> Programming Paradigms, they also differ in the same way.
+> 
+> Their differences in Programming Paradigms include: 
