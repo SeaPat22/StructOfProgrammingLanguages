@@ -5,7 +5,7 @@
 > _This project is meant to compare the difference in the paradigms used in C and Python._
 > 
 > _It uses the 'python Factorial.py' command to compile the Python file and the 'gcc Factorial.c'
-> command to compile the C file._
+> command to compile the C file and then the './a.out' command to run the compiled code._
 
 
 ### Differences in the Paradigms Used by Python and C:
