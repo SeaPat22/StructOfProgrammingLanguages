@@ -23,7 +23,7 @@ class Factorial:  # Declaring a class 'Factorial' which allows for object-orient
             print("The factorial of " + str(int) + " is: " + str(factorial))  # Prints out the factorial.
 
 
-##################### Creating integer objects to find their factorials.
+##################### Creating Factorial objects to find their factorials.
 number = Factorial()
 number.factorial(-10)
 
