@@ -12,4 +12,9 @@
 > While Python and C both share some of the same paradigms, namely the Procedural Programming Paradigm,
 > they also differ in the same way.
 > 
-> Their differences in Programming Paradigms include: 
+> Their differences in Programming Paradigms include Python having an Object-Oriented Programming Paradigm
+> and C not being an object-oriented language at all.  This is shown in the 'Factorial.py' file with the 
+> declaration of the Factorial class.  Due to this, C must rely on procedure calls because
+> it is a Procedural Programming Paradigm language with no object-oriented capabilities.
+> C is also an Imperative Programming language and this is shown by the data type being added to the 
+> variables at declaration in the 'Factorial.c' file while this is not needed in Python.
